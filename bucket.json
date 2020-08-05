@@ -236,81 +236,6 @@
                 "status": "published"
             },
             {
-                "_id": "5aa921fe86e37313dc96a659",
-                "old_id": "5a9d384785e79769d995433c",
-                "bucket": "5aa9219e86e37313dc96a64e",
-                "slug": "new-york-medical-services",
-                "title": "New York Medical Services",
-                "content": "<p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Aerobic activity alcoholism animal dander arthritis body type certified diabetes educators (cdes) diagnosis ear canal external otitis genes glucagon growth hormone hormone ibuprofen joints keratin ketones myopia nebulizer optometrist retina rheumatologist sternutation varicella zoster violence virus. Allergen allergy allergy shots and immunotherapy allergy-triggered asthma anesthesia blood bank cancer carbohydrate counting cardiologist dandruff genes hemangioma hydrocortisone insulin lymph nasal cavity scoliosis semicircular canals skin test x-ray. Allergist antibiotics anus blood type diabetes mellitus exercise-induced asthma gingivitis glycemic index gums ibuprofen involuntary muscle lung function tests nutrition otitis media otolaryngologist pediatric endocrinologist scoliosis seizure.</p><p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Alignment astigmatism astringents blood bank blood type bronchial tubes cancer cerumen dermatologist emotions enuresis fracture heredity humidifier keratin lacrimal glands optician optometrist peak flow meter pneumonia rx scar sphenopalatineganglioneuralgia stethoscope urticaria vertebrae virus whitehead. Abrasion acne allergist anus astringents beta cells bronchodilator cerebellum congestion conjunctivitis diaphragm frostbite glycosylated hemoglobin test (hemoglobin a1c) immunotherapy and allergy shots insulin resistance melanin ophthalmologist rheumatologist scar stapes symptoms tobacco urine vaccine varicella zoster wheeze. Addiction blackhead cornea dyslexia gastric juices ketoacidosis retinopathy rhinovirus stethoscope virus.</p><p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Airway obstruction alcoholism alignment amputate anus bone marrow braces bronchodilator caries ear canal enuresis farsighted frenulum frostbite hydrogen peroxide hyperopia involuntary muscle iv ketones larynx microscope nutrition perspiration pinna social worker ultrasound urinalysis violence virus. Alignment anesthesia body type bone marrow chromosomes corticosteroids dehydration dna exercise-induced asthma external otitis fats frostbite gastroenteritis genes gluteus maximus hormone hyperglycemia influenza malocclusion petroleum jelly prosthesis sclera taste buds triggers. Abrasion conjunctivitis dust mites dyslexia genes genetics growth hormone laparoscopy nearsighted optician saliva skin test social worker strep screen triggers.</p><p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Cancer cardiologist chromosomes cone ct scan or cat scan dust mites glycogen hormone icu immunizations lymph node mucus pediatric endocrinologist polyphagia saliva stress sulfites tinnitus triggers. Biopsy bronchial tubes bronchoconstriction certified diabetes educators (cdes) dandruff diarrhea enamel er fluoride gingivitis icu lymph node occupational therapy oncologist optometrist rheumatologist tobacco triggers ultrasound urticaria vaccine vertebrae. Allergen allergy shots and immunotherapy body type bronchoconstriction bruise dermatologist diagnosis eczema exercise-induced asthma gastric juices genetics gluteus maximus hydrogen peroxide immunizations insulin lymph node nebulizer sphenopalatineganglioneuralgia spirometer stress suture umbilical cord.</p><p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Carbohydrate counting ct scan or cat scan diagnosis er genes humidifier ketoacidosis night guard pupil retractions sulfites virus. Allergen antihistamines braces cerebellum chronic congestion decongestants eustachian tube floss genetics hematoma hydrogen peroxide hyperopia lacrimal glands optometrist sebaceous glands skin test social worker sphenopalatineganglioneuralgia suture urinalysis urticaria violence. Antibiotics arteries and veins eeg (electroencephalogram) gastroenteritis hyperopia ibuprofen insulin injections ketones laxatives nephropathy nervous system rhinovirus stapes taste buds. Bruxism cardiologist cornea heredity insulin resistance involuntary muscle occupational therapist optician pulmonologist skin test.</p>",
-                "metafields": [
-                    {
-                        "value": "This is the SEO description.  Keep it short.",
-                        "key": "seo_description",
-                        "title": "SEO Description",
-                        "type": "textarea",
-                        "children": false
-                    }
-                ],
-                "type_slug": "pages",
-                "user_id": "5982e43580aaa862200007ac",
-                "options": {
-                    "slug_field": 1,
-                    "content_editor": 1
-                },
-                "order": 0,
-                "status": "published"
-            },
-            {
-                "_id": "5aa921fe86e37313dc96a65a",
-                "old_id": "5a9d384785e79769d995433d",
-                "bucket": "5aa9219e86e37313dc96a64e",
-                "slug": "los-angeles-medical-services",
-                "title": "Los Angeles Medical Services",
-                "content": "<p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Aerobic activity alcoholism animal dander arthritis body type certified diabetes educators (cdes) diagnosis ear canal external otitis genes glucagon growth hormone hormone ibuprofen joints keratin ketones myopia nebulizer optometrist retina rheumatologist sternutation varicella zoster violence virus. Allergen allergy allergy shots and immunotherapy allergy-triggered asthma anesthesia blood bank cancer carbohydrate counting cardiologist dandruff genes hemangioma hydrocortisone insulin lymph nasal cavity scoliosis semicircular canals skin test x-ray. Allergist antibiotics anus blood type diabetes mellitus exercise-induced asthma gingivitis glycemic index gums ibuprofen involuntary muscle lung function tests nutrition otitis media otolaryngologist pediatric endocrinologist scoliosis seizure.</p><p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Alignment astigmatism astringents blood bank blood type bronchial tubes cancer cerumen dermatologist emotions enuresis fracture heredity humidifier keratin lacrimal glands optician optometrist peak flow meter pneumonia rx scar sphenopalatineganglioneuralgia stethoscope urticaria vertebrae virus whitehead. Abrasion acne allergist anus astringents beta cells bronchodilator cerebellum congestion conjunctivitis diaphragm frostbite glycosylated hemoglobin test (hemoglobin a1c) immunotherapy and allergy shots insulin resistance melanin ophthalmologist rheumatologist scar stapes symptoms tobacco urine vaccine varicella zoster wheeze. Addiction blackhead cornea dyslexia gastric juices ketoacidosis retinopathy rhinovirus stethoscope virus.</p><p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Airway obstruction alcoholism alignment amputate anus bone marrow braces bronchodilator caries ear canal enuresis farsighted frenulum frostbite hydrogen peroxide hyperopia involuntary muscle iv ketones larynx microscope nutrition perspiration pinna social worker ultrasound urinalysis violence virus. Alignment anesthesia body type bone marrow chromosomes corticosteroids dehydration dna exercise-induced asthma external otitis fats frostbite gastroenteritis genes gluteus maximus hormone hyperglycemia influenza malocclusion petroleum jelly prosthesis sclera taste buds triggers. Abrasion conjunctivitis dust mites dyslexia genes genetics growth hormone laparoscopy nearsighted optician saliva skin test social worker strep screen triggers.</p><p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Cancer cardiologist chromosomes cone ct scan or cat scan dust mites glycogen hormone icu immunizations lymph node mucus pediatric endocrinologist polyphagia saliva stress sulfites tinnitus triggers. Biopsy bronchial tubes bronchoconstriction certified diabetes educators (cdes) dandruff diarrhea enamel er fluoride gingivitis icu lymph node occupational therapy oncologist optometrist rheumatologist tobacco triggers ultrasound urticaria vaccine vertebrae. Allergen allergy shots and immunotherapy body type bronchoconstriction bruise dermatologist diagnosis eczema exercise-induced asthma gastric juices genetics gluteus maximus hydrogen peroxide immunizations insulin lymph node nebulizer sphenopalatineganglioneuralgia spirometer stress suture umbilical cord.</p><p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Carbohydrate counting ct scan or cat scan diagnosis er genes humidifier ketoacidosis night guard pupil retractions sulfites virus. Allergen antihistamines braces cerebellum chronic congestion decongestants eustachian tube floss genetics hematoma hydrogen peroxide hyperopia lacrimal glands optometrist sebaceous glands skin test social worker sphenopalatineganglioneuralgia suture urinalysis urticaria violence. Antibiotics arteries and veins eeg (electroencephalogram) gastroenteritis hyperopia ibuprofen insulin injections ketones laxatives nephropathy nervous system rhinovirus stapes taste buds. Bruxism cardiologist cornea heredity insulin resistance involuntary muscle occupational therapist optician pulmonologist skin test.</p>",
-                "metafields": [
-                    {
-                        "value": "This is the SEO description.  Keep it short.",
-                        "key": "seo_description",
-                        "title": "SEO Description",
-                        "type": "textarea",
-                        "children": false
-                    }
-                ],
-                "type_slug": "pages",
-                "user_id": "5982e43580aaa862200007ac",
-                "options": {
-                    "slug_field": 1,
-                    "content_editor": 1
-                },
-                "order": 1,
-                "status": "published"
-            },
-            {
-                "_id": "5aa921fe86e37313dc96a65b",
-                "old_id": "5a9d384785e79769d995433e",
-                "bucket": "5aa9219e86e37313dc96a64e",
-                "slug": "chicago-medical-services",
-                "title": "Chicago Medical Services",
-                "content": "<p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Aerobic activity alcoholism animal dander arthritis body type certified diabetes educators (cdes) diagnosis ear canal external otitis genes glucagon growth hormone hormone ibuprofen joints keratin ketones myopia nebulizer optometrist retina rheumatologist sternutation varicella zoster violence virus. Allergen allergy allergy shots and immunotherapy allergy-triggered asthma anesthesia blood bank cancer carbohydrate counting cardiologist dandruff genes hemangioma hydrocortisone insulin lymph nasal cavity scoliosis semicircular canals skin test x-ray. Allergist antibiotics anus blood type diabetes mellitus exercise-induced asthma gingivitis glycemic index gums ibuprofen involuntary muscle lung function tests nutrition otitis media otolaryngologist pediatric endocrinologist scoliosis seizure.</p><p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Alignment astigmatism astringents blood bank blood type bronchial tubes cancer cerumen dermatologist emotions enuresis fracture heredity humidifier keratin lacrimal glands optician optometrist peak flow meter pneumonia rx scar sphenopalatineganglioneuralgia stethoscope urticaria vertebrae virus whitehead. Abrasion acne allergist anus astringents beta cells bronchodilator cerebellum congestion conjunctivitis diaphragm frostbite glycosylated hemoglobin test (hemoglobin a1c) immunotherapy and allergy shots insulin resistance melanin ophthalmologist rheumatologist scar stapes symptoms tobacco urine vaccine varicella zoster wheeze. Addiction blackhead cornea dyslexia gastric juices ketoacidosis retinopathy rhinovirus stethoscope virus.</p><p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Airway obstruction alcoholism alignment amputate anus bone marrow braces bronchodilator caries ear canal enuresis farsighted frenulum frostbite hydrogen peroxide hyperopia involuntary muscle iv ketones larynx microscope nutrition perspiration pinna social worker ultrasound urinalysis violence virus. Alignment anesthesia body type bone marrow chromosomes corticosteroids dehydration dna exercise-induced asthma external otitis fats frostbite gastroenteritis genes gluteus maximus hormone hyperglycemia influenza malocclusion petroleum jelly prosthesis sclera taste buds triggers. Abrasion conjunctivitis dust mites dyslexia genes genetics growth hormone laparoscopy nearsighted optician saliva skin test social worker strep screen triggers.</p><p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Cancer cardiologist chromosomes cone ct scan or cat scan dust mites glycogen hormone icu immunizations lymph node mucus pediatric endocrinologist polyphagia saliva stress sulfites tinnitus triggers. Biopsy bronchial tubes bronchoconstriction certified diabetes educators (cdes) dandruff diarrhea enamel er fluoride gingivitis icu lymph node occupational therapy oncologist optometrist rheumatologist tobacco triggers ultrasound urticaria vaccine vertebrae. Allergen allergy shots and immunotherapy body type bronchoconstriction bruise dermatologist diagnosis eczema exercise-induced asthma gastric juices genetics gluteus maximus hydrogen peroxide immunizations insulin lymph node nebulizer sphenopalatineganglioneuralgia spirometer stress suture umbilical cord.</p><p style=\"margin-bottom: 1em; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline;\">Carbohydrate counting ct scan or cat scan diagnosis er genes humidifier ketoacidosis night guard pupil retractions sulfites virus. Allergen antihistamines braces cerebellum chronic congestion decongestants eustachian tube floss genetics hematoma hydrogen peroxide hyperopia lacrimal glands optometrist sebaceous glands skin test social worker sphenopalatineganglioneuralgia suture urinalysis urticaria violence. Antibiotics arteries and veins eeg (electroencephalogram) gastroenteritis hyperopia ibuprofen insulin injections ketones laxatives nephropathy nervous system rhinovirus stapes taste buds. Bruxism cardiologist cornea heredity insulin resistance involuntary muscle occupational therapist optician pulmonologist skin test.</p>",
-                "metafields": [
-                    {
-                        "value": "This is the SEO description.  Keep it short.",
-                        "key": "seo_description",
-                        "title": "SEO Description",
-                        "type": "textarea",
-                        "children": false
-                    }
-                ],
-                "type_slug": "pages",
-                "user_id": "5982e43580aaa862200007ac",
-                "options": {
-                    "slug_field": 1,
-                    "content_editor": 1
-                },
-                "order": 2,
-                "status": "published"
-            },
-            {
                 "_id": "5aa921fe86e37313dc96a65c",
                 "old_id": "5a9d384785e79769d995433f",
                 "bucket": "5aa9219e86e37313dc96a64e",
@@ -319,7 +244,6 @@
                 "content": "",
                 "metafields": [
                     {
-                        "value": "991f6b90-51c1-11e6-9e30-fb7e1b19bdc0-Screen Shot 2016-07-24 at 12.10.24 PM.png",
                         "key": "logo",
                         "title": "Logo",
                         "type": "file",
@@ -333,7 +257,6 @@
                         "children": false
                     },
                     {
-                        "value": "0713f190-51ca-11e6-9e30-fb7e1b19bdc0-Screen Shot 2016-07-24 at 1.11.05 PM.png",
                         "key": "favicon",
                         "title": "Favicon",
                         "type": "file",
